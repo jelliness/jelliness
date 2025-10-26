@@ -1,6 +1,4 @@
-# 🧠 Tech Stack & Skills
-
-Hi there! I'm **Jelly Anne Kaye Mallari**, a **Full Stack Developer** and **Aspiring Data Engineer** passionate about building scalable, data-driven web applications.  
+# Hi there! I'm **Jelly Anne Kaye Mallari**, a **Full Stack Developer** and **Aspiring Data Engineer** passionate about building scalable, data-driven web applications.  
 Here’s a quick overview of my technical toolkit 👇
 
 ---
